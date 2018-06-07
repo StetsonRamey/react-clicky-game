@@ -11,11 +11,20 @@ class App extends Component {
     friends
   };
 
-  removeFriend = id => {
-    // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
-    // Set this.state.friends equal to the new friends array
+  sortCharacters = friends => {
+    let friendsSorted = this.state.friends.sort( (a,b) => {return 0.5 - Math.random()});
+
+    friends = friendsSorted;
+    
     this.setState({ friends });
+  }
+
+  updateScore = score => {
+
+  };
+
+  resetGame = value => {
+
   };
 
   // Map over this.state.friends and render a FriendCard component for each friend object
@@ -25,13 +34,10 @@ class App extends Component {
         <Header>Friends List</Header>
         {this.state.friends.map(friend => (
           <FriendCard
-            removeFriend={this.removeFriend}
+            sortCharacters={this.sortCharacters}
             id={friend.id}
             key={friend.id}
-            name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
           />
         ))}
       </Wrapper>
