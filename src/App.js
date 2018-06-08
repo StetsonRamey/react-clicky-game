@@ -8,7 +8,9 @@ import "./App.css";
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    friends,
+    clicked: false,
+    count: 0
   };
 
   sortCharacters = friends => {
@@ -17,14 +19,23 @@ class App extends Component {
     friends = friendsSorted;
     
     this.setState({ friends });
+
+    this.handleClicked();
+    // console.log(this.state.clicked);
+    // console.log(friends);
+    
+    
   }
 
-  updateScore = score => {
-
+  updateScore = () => {
+    this.setState({ count: this.state.count + 1 });
+    
   };
 
-  resetGame = value => {
-
+  handleClicked = id => {
+    // 1. check state of friend that is clicked
+    // 2. if state clicked=false set to true
+    // 3. if state clicked=true, end the game
   };
 
   // Map over this.state.friends and render a FriendCard component for each friend object
