@@ -1,20 +1,31 @@
-<!-- TODO -->
-# TODO THIS STUFF
+# Game of Thrones Styled Clicky
 
-1. get images you want into friends.json
-2. create header component  
-   1. add score to the header
-   2. add game instructions
-3. create footer component
-   1. do some other stuff, catchy tagline, etc...
+This is the first react app I've built.  It is a basic front end ui, and some basic funtions to handle click events and state, keep track of score, and reset the game when you lose.
 
-1. get display all working correctly
+# Table of Contents
 
+<!--ts-->
+* [Table of Contents](#table-of-contents)
+* [Philosophy](#philosophy)
+* [Struggles](#struggles)
+  <!--te-->
 
-once the app displays correctly then...
+Philosophy
+==========
+Using the app:
 
-***
+* Click on a character
+* The cards shuffle
+* Click a character again
+* Try and click on all 12 characters only once
+* If you click on one character twice, you lose the game
 
-1. write a `sort function`
-2. write a `counter function`
-3. write a `click function`
+Struggles
+=========
+Some of the challenges I encountered:
+
+The sort function was pretty easy, and I thought that would be hard.  Where I struggled was with checking to see if the character had been clicked already and ending the game if they had.
+
+I also for the longest time had all my functions working, but the game would only iterate score between 0 and 1.  I'd click, and it would move a character into the clicked array, and then I'd click another character and it would reset everything.  
+
+I figured this out because I hadn't assigned the prop name to id in my FriendsCard.js file.  So, each element had an empty id, thus ending the game no matter what card I clicked.
