@@ -3,84 +3,72 @@
     "id": 1,
     "name": "Cersi",
     "image": "https://thumbs.mic.com/ZTI2NDg1YWUwOCMvTGROTWtXVlhBNFBJT1hHVG5oWkhqQW1MV3VBPS84MDV4NDY6MjkyOHgyMTcwLzIwMHgyMDAvZmlsdGVyczpmb3JtYXQoanBlZyk6cXVhbGl0eSg4MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvenRha2tkZnVjY2lxa2I1djF5bzJ4bHcwZ2hyNWN1a2Y3OWNiaXhjem5sZ3oxbmg0Z3RtdXdzdWtsNHA4aDZscC5qcGc.jpg",
-    "occupation": "Queen of the Iron Throne",
-    "location": "Everywhere"
+    "clicked": false
   },
   {
     "id": 2,
     "name": "Jon Snow",
     "image": "https://gl-images.condecdn.net/image/Vzngor0ZBmj/crop/200/square/f/kitharingtongot-12july17-pr.jpg",
-    "occupation": "King of the North",
-    "location": "With Mother of Dragons"
+    "clicked": false
   },
   {
     "id": 3,
     "name": "Tyrion Lannister",
     "image": "https://qph.fs.quoracdn.net/main-thumb-t-131355-200-uhprqzhcmskklqymnpzqcdhwezlnlgie.jpeg",
-    "occupation": "Right hand Man - Mother of Dragons",
-    "location": "Working on a Tan"
+    "clicked": false
   },
   {
     "id": 4,
     "name": "Danerys Targaryen, Mother of Dragons, Breaker of Chains, etc... etc...",
     "image": "https://media.licdn.com/dms/image/C5103AQFn1RjvR2I54g/profile-displayphoto-shrink_200_200/0?e=1529557200&v=beta&t=R3C9dXwrldw2OHinW7QYlE3uPkY2moALNLQnAjjBgNg",
-    "occupation": "General B.A.",
-    "location": "She all over the place"
+    "clicked": false
   },
   {
     "id": 5,
     "name": "Drogon",
     "image": "https://qph.fs.quoracdn.net/main-thumb-t-501363-200-khxcooaksgtikfinpiwgllxmupohwjfc.jpeg",
-    "occupation": "Burner of Shit",
-    "location": "The Sky, the Land, Wherever he is, you don't wanna be"
+    "clicked": false
   },
   {
     "id": 6,
     "name": "Arya Stark",
     "image": "https://static.moviepilot.de/features/game_of_thrones/images/header/persons/arya/05_preview.jpg",
-    "occupation": "Revenge Killer",
-    "location": "Everywhere, and Nowhere"
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Sansa Stark",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oLJ7xJ087bvlmEfDUgep-Rze6eRY_nNEthSMwWE8t4b1a-4K",
-    "occupation": "Befaller of Tragedies, Queen in the North",
-    "location": "Winterfell"
+    "clicked": false
   },
   {
     "id": 8,
     "name": "The Mountain",
     "image": "https://i2.wp.com/media.new.mensxp.com/media/content/2016/Apr/the-mountain-from-game-of-throne-eats-as-much-in-1-day-as-an-average-man-eats-in-5-days-980x457-1461827224_980x457.jpg?resize=200%2C200",
-    "occupation": "Cersei Lannister's Personal Detail",
-    "location": "Westeros"
+    "clicked": false
   },
   {
     "id": 9,
     "name": "The Night King",
     "image": "https://www.geekbomb.net/wp-content/uploads/2016/04/nights-king-200x200.jpg",
-    "occupation": "Conquerer of all that is living",
-    "location": "Inside the wall....now"
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Little Finger",
     "image": "https://qph.fs.quoracdn.net/main-thumb-t-240406-200-bnlyefzvjlnfbngejtokyymfwdniaaoj.jpeg",
-    "occupation": "General Shady Dude",
-    "location": "Winterfell"
+    "clicked": false
   },
   {
     "id": 11,
     "name": "The Hound",
     "image": "https://qph.fs.quoracdn.net/main-thumb-t-1367798-200-iwbllanqownjjysothtnqngxmjhsarzd.jpeg",
-    "occupation": "Handyman, literally",
-    "location": "In the middle"
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Varys",
     "image": "http://img.sharetv.com/shows/characters/thumbnails/game_of_thrones.varys.jpg",
-    "occupation": "Information Specialist",
-    "location": "With the Mother of Dragons Crew"
+    "clicked": false
   }
 ]
