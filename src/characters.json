@@ -2,84 +2,84 @@
   {
     "id": 1,
     "name": "Cersi",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Cersei_Lannister-Lena_Headey.jpg/220px-Cersei_Lannister-Lena_Headey.jpg",
+    "image": "https://thumbs.mic.com/ZTI2NDg1YWUwOCMvTGROTWtXVlhBNFBJT1hHVG5oWkhqQW1MV3VBPS84MDV4NDY6MjkyOHgyMTcwLzIwMHgyMDAvZmlsdGVyczpmb3JtYXQoanBlZyk6cXVhbGl0eSg4MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvenRha2tkZnVjY2lxa2I1djF5bzJ4bHcwZ2hyNWN1a2Y3OWNiaXhjem5sZ3oxbmg0Z3RtdXdzdWtsNHA4aDZscC5qcGc.jpg",
     "occupation": "Queen of the Iron Throne",
     "location": "Everywhere"
   },
   {
     "id": 2,
     "name": "Jon Snow",
-    "image": "https://pmcvariety.files.wordpress.com/2016/04/game-of-thrones2.jpg?w=1000&h=563&crop=1",
+    "image": "https://gl-images.condecdn.net/image/Vzngor0ZBmj/crop/200/square/f/kitharingtongot-12july17-pr.jpg",
     "occupation": "King of the North",
     "location": "With Mother of Dragons"
   },
   {
     "id": 3,
     "name": "Tyrion Lannister",
-    "image": "https://hdqwalls.com/wallpapers/tyrion-lannister-game-of-thrones-new.jpg",
+    "image": "https://qph.fs.quoracdn.net/main-thumb-t-131355-200-uhprqzhcmskklqymnpzqcdhwezlnlgie.jpeg",
     "occupation": "Right hand Man - Mother of Dragons",
     "location": "Working on a Tan"
   },
   {
     "id": 4,
     "name": "Danerys Targaryen, Mother of Dragons, Breaker of Chains, etc... etc...",
-    "image": "https://ae01.alicdn.com/kf/HTB1xzH9nEF7MKJjSZFLq6AMBVXa4/Daenerys-Targaryen-Halloween-Costume-A-Song-of-Ice-and-Fire-Game-of-Thrones-cosplay-Mother-of.jpg_640x640.jpg",
+    "image": "https://media.licdn.com/dms/image/C5103AQFn1RjvR2I54g/profile-displayphoto-shrink_200_200/0?e=1529557200&v=beta&t=R3C9dXwrldw2OHinW7QYlE3uPkY2moALNLQnAjjBgNg",
     "occupation": "General B.A.",
     "location": "She all over the place"
   },
   {
     "id": 5,
     "name": "Drogon",
-    "image": "https://imgix.bustle.com/uploads/image/2017/8/7/32f22298-6cac-4d4f-acea-21bc6be1e7c2-drogon.jpg?w=970&h=582&fit=crop&crop=faces&auto=format&q=70",
+    "image": "https://qph.fs.quoracdn.net/main-thumb-t-501363-200-khxcooaksgtikfinpiwgllxmupohwjfc.jpeg",
     "occupation": "Burner of Shit",
     "location": "The Sky, the Land, Wherever he is, you don't wanna be"
   },
   {
     "id": 6,
     "name": "Arya Stark",
-    "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2017%2F06%2Farya_480.jpg&c=sc&w=850&h=560",
+    "image": "https://static.moviepilot.de/features/game_of_thrones/images/header/persons/arya/05_preview.jpg",
     "occupation": "Revenge Killer",
     "location": "Everywhere, and Nowhere"
   },
   {
     "id": 7,
     "name": "Sansa Stark",
-    "image": "https://nerdist.com/wp-content/uploads/2017/08/Sansa_081917-1-970x545.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oLJ7xJ087bvlmEfDUgep-Rze6eRY_nNEthSMwWE8t4b1a-4K",
     "occupation": "Befaller of Tragedies, Queen in the North",
     "location": "Winterfell"
   },
   {
     "id": 8,
     "name": "The Mountain",
-    "image": "http://screencrush.com/files/2016/07/zombie-mountain-pic.jpg",
+    "image": "https://i2.wp.com/media.new.mensxp.com/media/content/2016/Apr/the-mountain-from-game-of-throne-eats-as-much-in-1-day-as-an-average-man-eats-in-5-days-980x457-1461827224_980x457.jpg?resize=200%2C200",
     "occupation": "Cersei Lannister's Personal Detail",
     "location": "Westeros"
   },
   {
     "id": 9,
     "name": "The Night King",
-    "image": "https://imgix.ranker.com/user_node_img/50071/1001408870/original/who-is-the-night-king-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces",
+    "image": "https://www.geekbomb.net/wp-content/uploads/2016/04/nights-king-200x200.jpg",
     "occupation": "Conquerer of all that is living",
     "location": "Inside the wall....now"
   },
   {
     "id": 10,
     "name": "Little Finger",
-    "image": "https://nerdist.com/wp-content/uploads/2014/05/Littlefinger_featured.jpg",
+    "image": "https://qph.fs.quoracdn.net/main-thumb-t-240406-200-bnlyefzvjlnfbngejtokyymfwdniaaoj.jpeg",
     "occupation": "General Shady Dude",
     "location": "Winterfell"
   },
   {
     "id": 11,
     "name": "The Hound",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Sandor_Clegane-The_Hound-Rory_McCann.jpg/220px-Sandor_Clegane-The_Hound-Rory_McCann.jpg",
+    "image": "https://qph.fs.quoracdn.net/main-thumb-t-1367798-200-iwbllanqownjjysothtnqngxmjhsarzd.jpeg",
     "occupation": "Handyman, literally",
     "location": "In the middle"
   },
   {
     "id": 12,
     "name": "Varys",
-    "image": "https://s.yimg.com/ny/api/res/1.2/7nD5GwnxBlWFfkEdNgc_Qw--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/hello_giggles_454/740c400bb2c97d1ef9ceb7cae3c3eda4",
+    "image": "http://img.sharetv.com/shows/characters/thumbnails/game_of_thrones.varys.jpg",
     "occupation": "Information Specialist",
     "location": "With the Mother of Dragons Crew"
   }

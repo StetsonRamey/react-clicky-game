@@ -7,9 +7,8 @@
 
 .img-container img {
   margin: 5px;
-  padding: 10px;
   border: 1px solid #c2c2c2;
-  max-height: 200px;
-  max-width: 200px;
+  max-height: 250px;
+  max-width: 250px;
   background-color: white;
 }

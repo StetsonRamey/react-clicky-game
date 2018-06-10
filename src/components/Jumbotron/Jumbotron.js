@@ -3,8 +3,7 @@ import './Jumbotron.css';
 
 const Jumbotron = () => (
   <div className='jumbotron jumbotron-fluid'>
-    <header className='header'></header>
-    <h1>click on the characters to earn points, but click on one twice and you die.</h1>
+    <h1><span>click on the characters to earn points, but click on one twice and you die.</span></h1>
   </div>
 );
 

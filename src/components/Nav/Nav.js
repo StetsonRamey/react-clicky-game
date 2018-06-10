@@ -6,8 +6,8 @@ class Nav extends Component {
     return (
       <nav className="navbar navbar-default navbar-fixed-top">
         <div className='nav-wrapper'>
-          <span className="itemLeft">GOT CLICKY</span>
-          <span className="itemRight">HIGH SCORE: {this.props.highscore} &nbsp; | &nbsp; SCORE: {this.props.score}</span>
+          <span className="left">GOT CLICKY</span>
+          <span className="right">HIGH SCORE: {this.props.highscore} &nbsp; | &nbsp; SCORE: {this.props.score}</span>
         </div>
       </nav>
     )
